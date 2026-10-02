@@ -23,7 +23,7 @@ repository               : "stetjedv/LJT-Homepage"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : # 
   name             : "Junteng Liu"
   pronouns         : # example: "she/her"  
   bio              : "First-year PhD candidate at the HKUST NLP Group. Research focuses on natural language processing and machine learning, including LLM reasoning and reinforcement learning, hallucination in vision-language models, and LLM truthfulness and interpretability."
